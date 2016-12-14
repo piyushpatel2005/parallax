@@ -1,0 +1,85 @@
+body, html {
+	height: 100%;
+	font-family: 'Mirza', sans-serif;
+	margin: 0 auto;
+}
+
+#title {
+	margin: 0 auto;
+	font-size: 2em;
+	text-align: center;
+	font-family: 'Mirza', cursive;
+	text-transform: uppercase;
+	padding: 0px 20px 10px 20px;
+}
+
+.parallax {
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	opacity: 0.6;
+}
+
+.shot1 {
+	background-image: url("../img/shot1.jpg");
+}
+
+.shot2 {
+	background-image: url("../img/shot2.jpg");
+}
+
+.shot3 {
+	background-image: url("../img/shot3.jpg");
+}
+
+.shot4 {
+	background-image: url("../img/shot4.jpg");
+}
+
+.shot5 {
+	background-image: url("../img/shot5.jpg");
+}
+
+.content {
+	height: 100%;
+	font-size: 24px;
+	line-height: 1.25em;
+	background: #0099cc;
+	color: #737373;
+	padding: 1% 15%;
+	margin: 0 auto;
+	opacity: 0.8;
+}
+
+.content h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.wrapper {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.content1 {
+	background: #0073e6;
+	color: #d9d9d9;
+}
+
+.content2 {
+	background: #cc00cc;
+	color: #d9d9d9;
+}
+
+.content3 {
+	background: #ff3300;
+	color: #d9d9d9;
+}
+
+.content4 {
+	background: #b3003b;
+	color: #d9d9d9;
+}
+
